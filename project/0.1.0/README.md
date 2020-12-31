@@ -22,7 +22,7 @@ Finish date: 2020-12-21
 * dubbo-proxy: tc - done
 * dubbo-mix: tc - done
 * http-query: zhangqi 
-* http-uri: zhagnqi
+* http-uri: fengzhenyu - done (It works when comment the replacepath filter in proxy/listener.go)
 * http-body: zhangqi
-* http-mix: fengzhengyu
+* http-mix: zhangqi
 * multi-dubbo-cluster: zhangxun
