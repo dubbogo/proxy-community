@@ -2,17 +2,15 @@
 
 # Develop Plan
 
-
-
 # Testing Plan
 
 Finish date: 2020-12-21
 
 ## Test branch
 
-[dubbo-go](https://github.com/dubbogo/dubbo-go-proxy): 0.1.0
+[dubbo-go-proxy](https://github.com/dubbogo/dubbo-go-proxy): 0.1.0
 
-[dubbo-go-proxy-samples](https://github.com/dubbogo/dubbo-go-proxy-samples): master
+~~[dubbo-go-proxy-samples](https://github.com/dubbogo/dubbo-go-proxy-samples): master~~
 
 ## Test module
 

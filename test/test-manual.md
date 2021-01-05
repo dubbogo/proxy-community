@@ -1,32 +1,3 @@
----
-title: "dubbogoproxy 测试例子"
-subtitle: ""
-date: 2020-12-20T15:54:32+08:00
-lastmod: 2020-12-20T15:54:32+08:00
-draft: true
-author: ""
-authorLink: ""
-description: ""
-
-tags: [网关,proxy,测试]
-categories: [dubbogoproxy]
-
-hiddenFromHomePage: false
-hiddenFromSearch: false
-
-featuredImage: ""
-featuredImagePreview: ""
-
-toc:
-  enable: true
-math:
-  enable: false
-lightgallery: false
-license: ""
----
-
-<!--more-->
-
 ## 一、简介
 
 dubbogoproxy 项目的测试例子在项目的 samples 目录下及 [dubbo-go-proxy-samples](https://github.com/dubbogo/dubbo-go-proxy-samples)，通过这些测试的例子来验证 proxy 功能的可用性。
